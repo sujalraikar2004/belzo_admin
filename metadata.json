@@ -1,0 +1,6 @@
+{
+  "name": "Belzo Admin Web Application",
+  "description": "Central operational control and real-time logistics ecosystem platform for Belzo food delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
